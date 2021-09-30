@@ -7,5 +7,6 @@ namespace tetsgit
 {
     public class test
     {
+        int a;
     }
 }
